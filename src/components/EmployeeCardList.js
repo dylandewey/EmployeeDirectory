@@ -4,7 +4,7 @@ import EmployeeCard from "./EmployeeCard";
 
 function EmployeeCardList({ data }) { // another fancy destructuring to avoid typing props.data.map down below
     return (
-        data.map(employee => (
+        (employee => (
             <EmployeeCard
                 key={employee.id}
                 image={employee.image}

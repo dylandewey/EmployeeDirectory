@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import Layout from "./components/Layout";
-import Header from "./components/Header";
+//import Header from "./components/Header";
 import Navigation from "./components/Navigation";
 import EmployeeCardList from "./components/EmployeeCardList";
 import Footer from "./components/Footer";
-import employees from "./utils/API";
+import API from "./utils/API";
 
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [sorted, setSorted] = useState(false);
-  const [data, setEmployees] = useState(employees);
+  const [data, setEmployees] = useState(API);
 
   function handleSearchTerm(event) {
     setSearchTerm(event.target.value)
@@ -41,7 +41,7 @@ function App() {
   const filteredEmployees = (employee => employee.name.toLowerCase().startsWith(searchTerm.toLowerCase()));
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <Layout>
         <h1 className="title text-5xl text-gray-800 mt-16">Employee Directory</h1>
         <p className="mb-16 text-md">Search for an employee or sort by Name or Category.</p>
