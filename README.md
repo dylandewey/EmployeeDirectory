@@ -26,5 +26,5 @@
     MIT
     
 ## Questions:
-    For more informtion about this application please refer to my Github: [dylandewey](https://github.com/dylandewey/Readmegenerator.git)
+    For more informtion about this application please refer to my Github: [dylandewey]()
     Or contact me by email: dylandewey41@gmail.com
