@@ -37,7 +37,7 @@ const DataArea = () => {
                 } else if (b[heading] === undefined) {
                     return -1;
                 } else if (heading === "name") {
-                    return a[heading].first.localeCompare(b[heading].first);
+                    return a[heading].last.localeCompare(b[heading].last);
                 } else {
                     return b[heading] - a[heading];
                 }
