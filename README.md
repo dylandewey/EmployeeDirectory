@@ -6,7 +6,7 @@
 ## Description:
     This app creates a searchable directory of random employees.  You can Click on the name column and sort in ascending order by last name, or type a first name in the search bar.
 ## Demo:
-
+<img alt="Demo" src="EmployeeDirectory.gif" width="500">
     
 ## Table of Contents:
 ### 1. [Installation](#Installation)
