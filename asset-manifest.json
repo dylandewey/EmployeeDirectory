@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dylandewey/EmployeeDirectory.git/static/css/main.fa41d102.chunk.css",
+    "main.js": "/dylandewey/EmployeeDirectory.git/static/js/main.3a8a383e.chunk.js",
+    "main.js.map": "/dylandewey/EmployeeDirectory.git/static/js/main.3a8a383e.chunk.js.map",
+    "runtime-main.js": "/dylandewey/EmployeeDirectory.git/static/js/runtime-main.a5b7c395.js",
+    "runtime-main.js.map": "/dylandewey/EmployeeDirectory.git/static/js/runtime-main.a5b7c395.js.map",
+    "static/js/2.27b0b5d5.chunk.js": "/dylandewey/EmployeeDirectory.git/static/js/2.27b0b5d5.chunk.js",
+    "static/js/2.27b0b5d5.chunk.js.map": "/dylandewey/EmployeeDirectory.git/static/js/2.27b0b5d5.chunk.js.map",
+    "index.html": "/dylandewey/EmployeeDirectory.git/index.html",
+    "precache-manifest.88c20fe21b5da5be282a22f4343d21b5.js": "/dylandewey/EmployeeDirectory.git/precache-manifest.88c20fe21b5da5be282a22f4343d21b5.js",
+    "service-worker.js": "/dylandewey/EmployeeDirectory.git/service-worker.js",
+    "static/css/main.fa41d102.chunk.css.map": "/dylandewey/EmployeeDirectory.git/static/css/main.fa41d102.chunk.css.map",
+    "static/js/2.27b0b5d5.chunk.js.LICENSE.txt": "/dylandewey/EmployeeDirectory.git/static/js/2.27b0b5d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b7c395.js",
+    "static/js/2.27b0b5d5.chunk.js",
+    "static/css/main.fa41d102.chunk.css",
+    "static/js/main.3a8a383e.chunk.js"
+  ]
+}
