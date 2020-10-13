@@ -1,10 +1,12 @@
 
 [![License: Github License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/dylandewey/Readmegenerator.git)
 
-# EmployeeDirectory (
+# [EmployeeDirectory](https://dylandewey.github.io/EmployeeDirectory/)
     
 ## Description:
     This app creates a searchable directory of random employees.  You can Click on the name column and sort in ascending order by last name, or type a first name in the search bar.
+## Demo:
+
     
 ## Table of Contents:
 ### 1. [Installation](#Installation)
